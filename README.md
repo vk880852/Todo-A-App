@@ -21,7 +21,7 @@ This project is a simple Todo List application built using React, Redux for stat
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/vk880852/react-todo-list.git
+   git clone https://git@github.com:vk880852/Todo-a-app.git
    cd react-todo-list
 ## Install dependencies
 - npm install
